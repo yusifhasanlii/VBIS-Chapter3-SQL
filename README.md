@@ -1,6 +1,6 @@
 # Chapter 3 Practice Assignment
 
-Ad Soyad: [Adınız Soyadınız]
+Ad Soyad: Yusif Həsənli
 Qrup: KOM24B
 
 Həll edilən tapşırıqların siyahısı:
